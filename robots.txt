@@ -6,4 +6,4 @@ Disallow: /.git/
 Disallow: /.agents/
 Disallow: /.agent/
 
-Sitemap: https://ihor-hrankov.com/sitemap.xml
+Sitemap: https://ihorhrankov.com/sitemap.xml

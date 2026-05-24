@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ihor-hrankov.com/</loc>
+    <loc>https://ihorhrankov.com/</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ihor-hrankov.com/"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://ihor-hrankov.com/?lang=uk"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ihor-hrankov.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ihorhrankov.com/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://ihorhrankov.com/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ihorhrankov.com/"/>
   </url>
 </urlset>
