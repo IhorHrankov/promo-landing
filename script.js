@@ -9,6 +9,8 @@ const i18n = {
     'nav.contact': 'Contact',
 
     'hero.chip': 'Available for new opportunities',
+    'hero.name.first': 'Ihor',
+    'hero.name.last': 'Hrankov',
     'hero.role': 'QA Lead &amp; Test Automation Engineer',
     'hero.tagline': '10+ years engineering quality into critical software systems — from startup MVPs to national-scale platforms.',
     'hero.stat.years': 'Years',
@@ -130,6 +132,11 @@ const i18n = {
 
     'contact.title': "Let's work\ntogether",
     'contact.sub': 'Open to senior QA Lead and test automation engineering opportunities.',
+
+    'footer.copy': '© 2026 Ihor Hrankov',
+
+    'meta.title': 'Ihor Hrankov — QA Lead & Test Automation Engineer | 10+ Years',
+    'meta.description': 'QA Lead & Test Automation Engineer with 10+ years across infrastructure, transport, healthcare, e-commerce & media. Expert in Appium, Cypress, Playwright, k6, BrowserStack, QA team leadership and AI-assisted testing.',
   },
 
   uk: {
@@ -138,22 +145,24 @@ const i18n = {
     'nav.contact': 'Контакт',
 
     'hero.chip': 'Відкритий до нових можливостей',
-    'hero.role': 'QA Lead та Інженер з автоматизації тестування',
+    'hero.name.first': 'Ігор',
+    'hero.name.last': 'Гранков',
+    'hero.role': 'QA Lead та інженер з автоматизації тестування',
     'hero.tagline': '10+ років забезпечення якості критично важливих програмних систем — від стартап-MVP до платформ національного масштабу.',
-    'hero.stat.years': 'Роки',
-    'hero.stat.companies': 'Компанії',
-    'hero.stat.domains': 'Домени',
+    'hero.stat.years': 'Років',
+    'hero.stat.companies': 'Компаній',
+    'hero.stat.domains': 'Доменів',
     'hero.cta': "Зв'язатися",
     'hero.scroll': 'Прокрутити',
 
     'about.title': 'Про мене',
     'about.intro': 'Старший QA-спеціаліст з десятирічним практичним досвідом у повному спектрі тестування — від ручного дослідницького тестування до проектування складних фреймворків автоматизації для високонавантажених виробничих систем.',
     'about.0': 'Досвід побудови QA-процесів з нуля: вимоги, метрики якості, оцінка ризиків, ROI та планування ресурсів',
-    'about.1': 'Формування та керівництво розподіленими QA-командами до 10 інженерів у міжнародних кросфункціональних проєктах',
+    'about.1': 'Формування розподілених QA-команд до 10 інженерів та керівництво ними у міжнародних кросфункціональних проєктах',
     'about.2': 'Практичний досвід проектування фреймворків автоматизації тестування для API, веб- та мобільних застосунків',
     'about.3': 'Навантажувальне та продуктивне тестування з k6 + TypeScript у масштабі',
     'about.4': 'Налаштування та підтримка CI/CD пайплайнів з GitHub Actions та Jenkins',
-    'about.5': 'Доменна експертиза в інфраструктурі, охороні здоров\'я, медіа, e-commerce та розвагах',
+    'about.5': 'Доменна експертиза в інфраструктурі, транспорті, охороні здоров\'я, e-commerce та медіа',
 
     'exp.title': 'Досвід',
     'exp.present': 'Сьогодні',
@@ -161,7 +170,7 @@ const i18n = {
     'exp.0.role': 'Головний QA Lead',
     'exp.0.project': 'Високонавантажена платформа продажу квитків та резервування місць для національного залізничного оператора (Велика Британія)',
     'exp.0.b0': 'Побудував наскрізну QA-стратегію для пакету з 7 React Native мобільних застосунків та кількох вебпорталів',
-    'exp.0.b1': 'Відповідальний за оцінку ризиків випуску, планування тестування, оцінку зусиль, найм команди, 1:1 та щорічні performance review',
+    'exp.0.b1': 'Відповідальний за оцінку ризиків випуску, планування тестування, оцінку зусиль, найм команди, 1:1 та щорічні performance reviews',
     'exp.0.b2': 'Спроектував фреймворк автоматизації React Native мобільних застосунків (Appium + PyTest + BrowserStack) — основний фокус проєкту',
     'exp.0.b3': 'Побудував допоміжні набори: контрактне тестування API (Postman/Newman) та навантажувальне тестування (k6)',
     'exp.0.b4': 'Впровадив систему управління тест-кейсами Xray та розробив командні стандарти документування',
@@ -205,7 +214,7 @@ const i18n = {
     'exp.confidential': 'Конфіденційно',
 
     'dom.title': 'Домени та ключові клієнти',
-    'dom.lede': 'Десятиліття роботи через аутстаф-партнерства — у складі продуктових команд п\'яти індустрій.',
+    'dom.lede': 'Десятиліття роботи через аутстаф-партнерства — у складі продуктових команд п\'яти галузей.',
     'dom.0.name': 'Інфраструктура',
     'dom.0.desc': 'Internet performance та DNS-інфраструктура',
     'dom.1.name': 'Транспорт',
@@ -221,7 +230,7 @@ const i18n = {
     'lead.lede': 'Нетехнічна частина ролі — володіння якістю наскрізно, побудова процесів та розвиток команди.',
     'lead.0.name': 'Відповідальність за якість',
     'lead.0.b0': 'Володіти та забезпечувати наскрізні quality gates на платформі',
-    'lead.0.b1': 'Встановлювати, відстежувати та звітувати по метриках якості',
+    'lead.0.b1': 'Встановлювати, відстежувати та звітувати про метрики якості',
     'lead.0.b2': 'Очолювати defect triage та керувати життєвим циклом дефектів',
     'lead.0.b3': 'Переглядати ручні та автоматизовані тест-кейси на покриття та якість',
     'lead.0.b4': 'Володіти плануванням тестування для релізних ітерацій',
@@ -235,10 +244,10 @@ const i18n = {
     'lead.2.b1': 'Бути основною точкою контакту QA у кросфункціональних ініціативах',
     'lead.3.name': 'Планування та доставка',
     'lead.3.b0': 'Визначати пріоритети команди та керувати розподілом навантаження',
-    'lead.3.b1': 'Оцінювати зусилля QA по проєктах',
+    'lead.3.b1': 'Оцінювати трудовитрати QA для різних проєктів',
     'lead.3.b2': 'Призначати завдання та контролювати виконання у строк',
     'lead.4.name': 'Робота з людьми',
-    'lead.4.b0': 'Проводити регулярні 1-2-1 для підтримки росту та благополуччя команди',
+    'lead.4.b0': 'Проводити регулярні 1-2-1 для підтримки розвитку та добробуту команди',
     'lead.4.b1': 'Очолювати онбординг нових членів команди',
     'lead.4.b2': 'Проводити щорічні та піврічні performance reviews',
     'lead.4.b3': 'Брати участь у співбесідах та найманні QA-кандидатів',
@@ -259,6 +268,11 @@ const i18n = {
 
     'contact.title': 'Поговоримо\nпро роботу',
     'contact.sub': 'Відкритий до старших позицій QA Lead та інженера з автоматизації тестування.',
+
+    'footer.copy': '© 2026 Ігор Гранков',
+
+    'meta.title': 'Ігор Гранков — QA Lead та інженер з автоматизації тестування | 10+ років',
+    'meta.description': 'QA Lead та інженер з автоматизації тестування з 10+ роками досвіду у інфраструктурі, транспорті, healthcare, e-commerce та медіа. Експерт з Appium, Cypress, Playwright, k6, BrowserStack, лідерства QA-команд та AI-assisted тестування.',
   },
 };
 
@@ -289,7 +303,28 @@ function applyLang(lang) {
     opt.classList.toggle('active', opt.dataset.val === lang);
   });
 
+  // Update SEO meta tags so search engine snippets & social previews
+  // reflect the active language (crawlers that execute JS pick this up).
+  const t = i18n[lang]['meta.title'];
+  const d = i18n[lang]['meta.description'];
+  if (t) {
+    document.title = t;
+    setMeta('property', 'og:title', t);
+    setMeta('name', 'twitter:title', t);
+  }
+  if (d) {
+    setMeta('name', 'description', d);
+    setMeta('property', 'og:description', d);
+    setMeta('name', 'twitter:description', d);
+  }
+  setMeta('property', 'og:locale', lang === 'uk' ? 'uk_UA' : 'en_US');
+
   localStorage.setItem('cv-lang', lang);
+}
+
+function setMeta(attr, name, content) {
+  const el = document.querySelector(`meta[${attr}="${name}"]`);
+  if (el) el.setAttribute('content', content);
 }
 
 function initLang() {

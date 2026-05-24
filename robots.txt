@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block crawlers from build artifacts (none here, but defensive)
+Disallow: /.git/
+Disallow: /.agents/
+Disallow: /.agent/
+
+Sitemap: https://ihor-hrankov.com/sitemap.xml
